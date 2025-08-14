@@ -290,6 +290,10 @@ nav a:hover{
         flex-direction: column;
     }
 
+    ul {
+        padding-inline-start: 0;
+    }
+
     #hero{
         flex-direction:column-reverse;
         padding: 1rem;
@@ -311,7 +315,6 @@ nav a:hover{
 
     .menu a{
         font-size: small;
-        margin: 4rem;
     }
     
     
